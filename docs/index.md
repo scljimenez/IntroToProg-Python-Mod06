@@ -1,5 +1,5 @@
 This is a text file.
 
-[Assignment 06 Wrieup]()
+[Assignment 06 Writeup]
 
-[Assignment 06 .py file] ()
+[Assignment 06 .py file]
